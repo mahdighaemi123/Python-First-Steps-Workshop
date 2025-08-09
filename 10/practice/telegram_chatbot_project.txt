@@ -1,0 +1,10 @@
+Create chatbot in telegram like this:
+
+/start
+Hi, how may I assist you?
+
+user: 2+2
+bot:  2 + 2 = 4
+
+user: what is capital of USA?
+bot:  Washington, D.C.

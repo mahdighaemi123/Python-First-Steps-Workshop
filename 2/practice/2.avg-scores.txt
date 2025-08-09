@@ -1,0 +1,10 @@
+count: 4
+
+enter num:1
+enter num:2
+enter num:3
+enter num:4
+
+len:
+sum:
+avg:

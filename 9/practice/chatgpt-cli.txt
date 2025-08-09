@@ -1,0 +1,9 @@
+Create ai cli like this:
+
+Hi what can i do 4 you?
+
+> 2+2
+2 + 2 = 4
+
+> what is capital of USA?
+Washington, D.C.

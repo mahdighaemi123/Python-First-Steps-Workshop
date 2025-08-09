@@ -1,0 +1,9 @@
+we have two number swap them
+
+a = 10
+b = 20
+
+to
+
+a = 20
+b = 10

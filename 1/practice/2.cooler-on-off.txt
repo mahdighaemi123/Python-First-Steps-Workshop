@@ -1,0 +1,4 @@
+get a input decimal number from user and name it temp
+
+if temp eqaule or less then 18 print "turn off the cooler"
+else print "turn on the cooler"

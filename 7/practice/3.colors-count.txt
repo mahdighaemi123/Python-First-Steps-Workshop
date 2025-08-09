@@ -1,0 +1,7 @@
+user enter one line text input like this
+"red green red"
+
+output:
+
+red: 2
+green: 1

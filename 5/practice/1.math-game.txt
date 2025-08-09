@@ -1,0 +1,14 @@
+create math game cli like this (only +,*) (number):
+
+import random
+r = random.randint(1,10)
+
+------------------------
+       Math Game
+------------------------
+what is result of 5 * 2 
+> 9
+you lose anwnser is 10 :(
+what is result of 2 + 18
+> 20
+you win correct anwnser :)
