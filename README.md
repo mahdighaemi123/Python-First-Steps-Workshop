@@ -1,6 +1,5 @@
 ## Python First Steps Workshop
 
-
 ![python-banner](python-banner.jpg)
 
 ### 📌 Overview
